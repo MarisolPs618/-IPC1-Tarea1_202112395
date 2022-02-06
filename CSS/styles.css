@@ -1,0 +1,9 @@
+table th{
+    width:10em;
+}
+table{
+    border-collapse:collapse;
+}
+tr:nth-of-type(1)>th{
+    background-color:lightskyblue;
+}
